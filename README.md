@@ -62,7 +62,7 @@ This is the final project for Programming – Informatics I (20302) at the Unive
   - Difference 6–10: 5 points  
   - Difference >10: 0 points  
 
-## ⚠️ Restrictions
+## 🚫 Restrictions
 - Must have the option to play vs CPU.  
 - Must show previous games results.  
 - Must use provided files (letters, dictionary, numbers).  
