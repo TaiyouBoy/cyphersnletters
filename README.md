@@ -9,7 +9,7 @@ Both players attempt to find the best solution under the given constraints and s
 
 In this project, the human player must be able to play against the computer (CPU). The game must be playable in either Spanish or Catalan (professors will provide letter distributions and dictionaries of valid words for each language).
 
-<br><br>
+This is the final project for Programming – Informatics I (20302) at the University of the Balearic Islands for the 2025-2026 course.
 
 ## 🎯 Objectives
 
@@ -79,5 +79,3 @@ In this project, the human player must be able to play against the computer (CPU
 - Code must be clear, well-structured, object-oriented, with meaningful identifiers, proper indentation, comments, and modular design.  
 - User interface must be clear and consistent.  
 - Passing requires meeting restrictions and mandatory objectives.
-
-This is the final project for Programming – Informatics I (20302) at the University of the Balearic Islands for the 2025-2026 course.
